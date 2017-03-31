@@ -1,0 +1,54 @@
+= 1.0.10 =
+* WP 4.6.1 Compatible.
+* Updated Font Awesome.
+* Removed backward theme compatibility.
+
+= 1.0.9 =
+* WP 4.6 Compatible.
+* Updated Font Awesome.
+* Fixed single page SEO.
+* Removed backward theme compatibility.
+
+= 1.0.8 =
+* WP 4.3.1 Compatible.
+* Customizer API for Theme Options.
+
+= 1.0.7 =
+* WP 4.3 Compatible.
+* Added options escaping while output.
+* Included Google Font in enqueue.
+* Updated Font Awesome.
+* Added more Theme Options.
+
+= 1.0.6 =
+* Fixed Theme Check issue(register_post_type and screen_icon).
+* Added url escaping.
+* Fixed load unnessary scripts on other admin pages.
+
+= 1.0.5 =
+* WP 4.0.0 Compatible.
+* Fixed Font Awesome issue.
+
+= 1.0.4 =
+* Added Breadcrumb Settings in theme options(Breadcrumb Settings enable/disable,pagetitle color etc.)
+* updated Version of Font Awesome 4.1.0 .
+
+= 1.0.3 =
+* WP 3.9.1 Compatible.
+* Fixed slider align to the left issue.
+
+
+= 1.0.2 =
+* Fixed Image license issue add GPL-compatible license images.
+
+= 1.0.1 =
+* Fixed Menu bar overflow issue.
+* Add license details of all images with url.
+* Include unminified version of the js files.
+* Change text domain of theme.
+* Removed title attribute in footer credit link.
+* Add front-page.php file.
+
+
+= 1.0.0 =
+* Initial release
